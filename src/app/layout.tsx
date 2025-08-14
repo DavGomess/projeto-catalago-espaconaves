@@ -28,7 +28,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
       <div className="barraNav">
-        <h2>EXERCÍCIO 3-CATÁLOGO DE ESPAÇONAVES</h2>
+        <h2>CATÁLOGO DE ESPAÇONAVES</h2>
         <nav>
           <Abas/>
         </nav>
